@@ -2,7 +2,7 @@
     <wb-module deploy-name="ParaBank">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="parabank"/>
+        <property name="context-root" value="parabank2"/>
         <property name="java-output-path" value="/ParaBank/build/classes"/>
     </wb-module>
 </project-modules>

@@ -18,7 +18,7 @@
 		</repository>
    </repositories>
   <build>
-  	<finalName>parabank</finalName>
+  	<finalName>ParaBank</finalName>
     <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>

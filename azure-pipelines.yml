@@ -6,13 +6,6 @@
 trigger:
 - master
 
-schedules:
-- cron: '* * * * *'
-  always: true
-  displayName: Daily midnight build
-  branches:
-    include:
-    - master
 
 pool:
   vmImage: ubuntu-latest
